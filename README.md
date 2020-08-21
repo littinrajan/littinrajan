@@ -5,18 +5,18 @@ I am a Software Developer from India. Interested in, write about and develop (op
 Working as an AI Software Developer at Techversant Infotech
 Working as a Mentor at Exercism for the programming Languages Python, Julia and C
 
-#Where i'm "active"
+# Where i'm "active"
 * [Stack Overflow](https://stackoverflow.com/users/12266677/littin-rajan)
 * [Exercism](https://exercism.io/profiles/littinrajan)
 
 # 📬 Get in touch
-- LinkedIn: [linkedin.com/in/littinrajan][1]
-- Web: [littinrajan.wordpress.com[2]
-- Blog: [dev.to/littinrajan][3]
-- Twitter: [twitter.com/littinrajan][4]
-- Facebook: [facebook.com/littin.rajan][5]
-- Instagram: [instagram.com/littinrajan_12][6]
-- Tumblr: [littinrajan.tumblr.com][7]
+- LinkedIn: linkedin.com/in/littinrajan
+- Web: https://littinrajan.wordpress.com
+- Blog: dev.to/littinrajan
+- Twitter: twitter.com/littinrajan
+- Facebook: facebook.com/littin.rajan
+- Instagram: instagram.com/littinrajan_12
+- Tumblr: https://littinrajan.tumblr.com
 
 # GitHub stats 
 <a href="https://github.com/littinrajan/littinrajan">
