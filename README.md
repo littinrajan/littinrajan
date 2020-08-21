@@ -10,12 +10,12 @@ Working as a Mentor at Exercism for the programming Languages Python, Julia and 
 * [Exercism](https://exercism.io/profiles/littinrajan)
 
 # 📬 Get in touch
-- [LinkedIn](linkedin.com/in/littinrajan)
+- [LinkedIn](https://www.linkedin.com/in/littinrajan)
 - [Web](https://littinrajan.wordpress.com)
-- [Blog](dev.to/littinrajan)
-- [Twitter](twitter.com/littinrajan)
-- [Facebook](facebook.com/littin.rajan)
-- [Instagram](instagram.com/littinrajan_12)
+- [Blog](https://www.dev.to/littinrajan)
+- [Twitter](https://www.twitter.com/littinrajan)
+- [Facebook](https://www.facebook.com/littin.rajan)
+- [Instagram](https://www.instagram.com/littinrajan_12)
 - [Tumblr](https://littinrajan.tumblr.com)
 
 # GitHub stats 
