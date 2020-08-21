@@ -10,17 +10,17 @@ Working as a Mentor at Exercism for the programming Languages Python, Julia and 
 * [Exercism](https://exercism.io/profiles/littinrajan)
 
 # 📬 Get in touch
-- LinkedIn: linkedin.com/in/littinrajan
-- Web: https://littinrajan.wordpress.com
-- Blog: dev.to/littinrajan
-- Twitter: twitter.com/littinrajan
-- Facebook: facebook.com/littin.rajan
-- Instagram: instagram.com/littinrajan_12
-- Tumblr: https://littinrajan.tumblr.com
+- [LinkedIn](linkedin.com/in/littinrajan)
+- [Web](https://littinrajan.wordpress.com)
+- [Blog](dev.to/littinrajan)
+- [Twitter](twitter.com/littinrajan)
+- [Facebook](facebook.com/littin.rajan)
+- [Instagram](instagram.com/littinrajan_12)
+- [Tumblr](https://littinrajan.tumblr.com)
 
 # GitHub stats 
 <a href="https://github.com/littinrajan/littinrajan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?littinrajan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littinrajan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/littinrajan/littinrajan">
