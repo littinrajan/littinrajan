@@ -20,7 +20,7 @@ Working as a Mentor at Exercism for the programming Languages Python, Julia and 
 
 # GitHub stats 
 <a href="https://github.com/littinrajan/littinrajan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littinrajan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=#1a75ff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littinrajan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=#ff6600" />
 </a>
 
 <a href="https://github.com/littinrajan/littinrajan">
