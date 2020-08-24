@@ -28,4 +28,4 @@ and a Mentor at Exercism for the programming Languages Python, Julia and C
 </a>
 
 </br>
-![](https://komarev.com/ghpvc/?username=littinrajan&color=green&style=flat-square&label=Views:)
+![](https://komarev.com/ghpvc/?username=littinrajan&color=green&style=flat-square&label=visits)
