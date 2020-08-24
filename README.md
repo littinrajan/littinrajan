@@ -18,7 +18,7 @@ and a Mentor at Exercism for the programming Languages Python, Julia and C
 - [Instagram](https://www.instagram.com/littinrajan_12)
 - [Tumblr](https://littinrajan.tumblr.com)
 
-# GitHub stats 
+# &#x1f4c8; My GitHub Stats 
 <a href="https://github.com/littinrajan/littinrajan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littinrajan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
