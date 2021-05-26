@@ -3,13 +3,14 @@
 I am a Software Developer from India. Interested in, write about and develop (open source) software solutions for and with Python, Julia and GoLang.
 
 Working as an AI Software Developer at Techversant Infotech
-and a Mentor at Exercism for the programming Languages Python, Julia and C
+Mentor at Exercism for the programming Languages Python, Julia and C
+Instructor at Udemy
 
-# Where I'm "active"
+# Where I'm "active" 🙂
 * [Stack Overflow](https://stackoverflow.com/users/12266677/littin-rajan)
 * [Exercism](https://exercism.io/profiles/littinrajan)
 
-# 📬 Get in touch
+# 📬 Get in touch 😉
 - [LinkedIn](https://www.linkedin.com/in/littinrajan)
 - [Web](https://littinrajan.wordpress.com)
 - [Blog](https://www.dev.to/littinrajan)
