@@ -28,3 +28,6 @@ and a Mentor at Exercism for the programming Languages Python, Julia and C
 </a>
 
 ![](https://komarev.com/ghpvc/?username=littinrajan&color=blue&style=plastic&label=Profile+Views)
+
+# &#x1f4c8; My Stack Overflow Stats
+<a href="https://stackexchange.com/users/16959142/littin-rajan"><img src="https://stackexchange.com/users/flair/16959142.png" width="208" height="58" alt="profile for Littin Rajan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Littin Rajan on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
