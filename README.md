@@ -1,4 +1,4 @@
-# [![Littin Rajan header](https://raw.githubusercontent.com/littinrajan/littinrajan/main/icon/lt_pic.jpg)]
+# [!Littin Rajan(https://github.com/littinrajan/littinrajan/main/icon/lt_pic.jpg)]
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/icon/linkedin.png?raw=true"></a>
