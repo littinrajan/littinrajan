@@ -1,4 +1,5 @@
 # Littin Rajan
+ <p align='center'>AI Software Developer | Designer | Mentor | Instructor | HackerRank 1</p>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/icon/linkedin.png?raw=true"></a>
