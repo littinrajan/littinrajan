@@ -2,11 +2,11 @@
  <p align='center'>AI Software Developer | Designer | Mentor | Instructor | HackerRank 1</p>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/icon/linkedin.png?raw=true"></a>
-<a href="https://dev.to/littinrajan"><img height="30" src="https://raw.githubusercontent.com/littinrajan/littinrajan/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/littinrajan_12"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/icon/by-me-a-coffee.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/tree/master/icon/linkedin.png?raw=true"></a>
+<a href="https://dev.to/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/tree/master/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/tree/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/littinrajan_12"><img height="30" src="https://github.com/littinrajan/littinrajan/tree/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/tree/master/icon/by-me-a-coffee.png?raw=true"></a>
 </p>
 
 
