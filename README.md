@@ -1,4 +1,4 @@
-# ![Littin Rajan header (img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icon/lt_pic.jpg")]
+# ![Littin Rajan header (https://github.com/littinrajan/littinrajan/blob/master/icon/lt_pic.jpg)]
 <h1 align='center' style="color=blue;"> Littin Rajan </h1>
  <p align='center'>AI Software Developer | Designer | Mentor | Instructor | HackerRank 1</p>
 
