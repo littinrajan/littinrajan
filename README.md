@@ -1,4 +1,4 @@
-# Littin Rajan
+<h2 align='center'> Littin Rajan </h2>
  <p align='center'>AI Software Developer | Designer | Mentor | Instructor | HackerRank 1</p>
 
 <p align='center'>
