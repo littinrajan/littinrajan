@@ -41,9 +41,7 @@ and **Instructor** at Udemy
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=littinrajan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Littin Rajan's GitHub Stats" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=littinrajan&color=blue&style=plastic&label=Profile+Views)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=littinrajan.visitor-badge&left_color=blue&right_color=red)
-![Author](https://img.shields.io/badge/author-littinrajan-blue)
+![](https://komarev.com/ghpvc/?username=littinrajan&color=blue&style=plastic&label=Profile+Views) ![visitors](https://visitor-badge.glitch.me/badge?page_id=littinrajan.visitor-badge&left_color=blue&right_color=red) ![Issues](https://img.shields.io/github/issues/littinrajan/littinrajan) ![Stars](https://img.shields.io/github/stars/littinrajan/littinrajan) ![License](https://img.shields.io/github/license/littinrajan/littinrajan) ![Author](https://img.shields.io/badge/author-littinrajan-blue)
 
 # &#x1f4c8; My Stack Overflow Stats
 <a href="https://stackoverflow.com/users/12266677/littin-rajan"><img src="https://stackoverflow.com/users/flair/12266677.png?theme=dark" width="208" height="58" alt="profile for Littin Rajan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Littin Rajan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
