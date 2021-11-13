@@ -1,4 +1,4 @@
-<h2 align='center'> Littin Rajan </h2>
+<h1 align='center' style="olor="#157af3;font-style:bold;"> Littin Rajan </h1>
  <p align='center'>AI Software Developer | Designer | Mentor | Instructor | HackerRank 1</p>
 
 <p align='center'>
