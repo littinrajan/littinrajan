@@ -52,3 +52,5 @@ and **Instructor** at Udemy
 <a href="https://dev.to/littinrajan">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="littinrajan's DEV Community Profile" height="30" width="30">
 </a>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=littinrajan.visitor-badge&left_color=green&right_color=red)
