@@ -51,5 +51,5 @@ and **Instructor** at Udemy
 
 <!-- <a href="https://dev.to/littinrajan"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="littinrajan's DEV Community Profile" height="30" width="30"></a> -->
 
-#My Stargazers
-[![Stargazers over time](https://starchart.cc/Nlittinrajan/littinrajan.svg)](https://starchart.cc/littinrajan/littinrajan)
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/littinrajan/littinrajan.svg)](https://starchart.cc/littinrajan/littinrajan)
