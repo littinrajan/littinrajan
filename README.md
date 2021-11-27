@@ -32,6 +32,9 @@ and **Instructor** at Udemy
 - [Instagram](https://www.instagram.com/littinrajan_12)
 - [Tumblr](https://littinrajan.tumblr.com)
 
+- 💼 If you have any freelance work? do reach, [email](mailto:littinrajan@gmail.com) :)
+- 💬 ask me about anything, i am happy to help
+
 # &#x1f4c8; My GitHub Stats 
 <a href="https://github.com/littinrajan/littinrajan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littinrajan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
