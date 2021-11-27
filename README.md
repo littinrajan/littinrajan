@@ -41,6 +41,10 @@ and **Instructor** at Udemy
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=littinrajan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Littin Rajan's GitHub Stats" />
 </a>
 
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=littinrajan&theme=ads-juicy-fresh&hide_border=true" alt="my commit status" width="49%" /> 
+</p>
+
 ![](https://komarev.com/ghpvc/?username=littinrajan&color=blue&style=plastic&label=Profile+Views) ![visitors](https://visitor-badge.glitch.me/badge?page_id=littinrajan.visitor-badge&left_color=blue&right_color=red) ![Issues](https://img.shields.io/github/issues/littinrajan/littinrajan) ![Stars](https://img.shields.io/github/stars/littinrajan/littinrajan) ![License](https://img.shields.io/github/license/littinrajan/littinrajan) ![Author](https://img.shields.io/badge/author-littinrajan-blue)
 
 # &#x1f4c8; My Stack Overflow Stats
