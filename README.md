@@ -33,7 +33,7 @@ and **Instructor** at Udemy
 - [Tumblr](https://littinrajan.tumblr.com)
 
 - 💼 If you have any freelance work? do reach, [email](mailto:littinrajan@gmail.com) :)
-- 💬 ask me about anything, i am happy to help
+- 💬 ask me about Python, Julia, NLP, etc. I am ready to help you..
 
 # &#x1f4c8; My GitHub Stats 
 <a href="https://github.com/littinrajan/littinrajan">
