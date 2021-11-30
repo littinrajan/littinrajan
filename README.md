@@ -1,5 +1,5 @@
 <h1 align='center' style="color=blue;"> Littin Rajan </h1>
- <p align='center'>AI Software Developer | Designer | Mentor | Instructor | HackerRank 1</p>
+<p align='center'><b>AI Software Developer | Designer | Mentor | Instructor | HackerRank * 1</b></p>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icon/linkedin.png?raw=true"></a>
