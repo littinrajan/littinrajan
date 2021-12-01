@@ -24,13 +24,13 @@ and **Instructor** at Udemy.
 * [Exercism](https://exercism.io/profiles/littinrajan)
 
 # 📬 Get in touch 😉
-- [LinkedIn](https://www.linkedin.com/in/littinrajan)
-- [Web](https://littinrajan.wordpress.com)
-- [Blog](https://www.dev.to/littinrajan)
-- [Twitter](https://www.twitter.com/littinrajan)
-- [Facebook](https://www.facebook.com/littin.rajan)
-- [Instagram](https://www.instagram.com/littinrajan_12)
-- [Tumblr](https://littinrajan.tumblr.com)
+* [LinkedIn](https://www.linkedin.com/in/littinrajan)
+* [Web](https://littinrajan.wordpress.com)
+* [Blog](https://www.dev.to/littinrajan)
+* [Twitter](https://www.twitter.com/littinrajan)
+* [Facebook](https://www.facebook.com/littin.rajan)
+* [Instagram](https://www.instagram.com/littinrajan_12)
+* [Tumblr](https://littinrajan.tumblr.com)
 
 - 💼 If you have any freelance work? Do reach through [littinrajan@gmail.com](mailto:littinrajan@gmail.com)
 - 💬 ask me about Python, Julia, NLP, etc. I am ready to help you.
