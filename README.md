@@ -62,4 +62,4 @@ and **Instructor** at Udemy.
 <!-- ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/littinrajan/littinrajan.svg)](https://starchart.cc/littinrajan/littinrajan) -->
 
-<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b>
+<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more</b>
