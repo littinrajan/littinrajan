@@ -1,5 +1,5 @@
 <h1 align='center' style="color=blue;"> Littin Rajan </h1>
-<p align='center'><b>AI Software Developer | Designer | Mentor | Instructor | HackerRank * 1</b></p>
+<p align='center'><b>AI SDE | Certified Coding Teacher | Mentor | Instructor | Designer | HackerRank * 1</b></p>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icon/linkedin.png?raw=true"></a>
@@ -13,7 +13,7 @@
 
 # Hi there 👋
 
-I am a Software Developer from India. Interested in, write about and develop (open source) software solutions for and with Python, Julia, etc and focusing on Artificial Intelligence.
+I am an AI Software Developer from India. Interested in, write about and develop (open source) software solutions for and with Python, Julia, etc and focusing on Artificial Intelligence.
 
 Working as an **AI Software Developer** at Techversant Infotech
 , **Mentor** at Exercism for the programming Languages Python, Julia and C
