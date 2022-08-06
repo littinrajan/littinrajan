@@ -49,7 +49,14 @@ and **Instructor** at Udemy.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=littinrajan&theme=ads-juicy-fresh&hide_border=true" alt="my commit status" width="49%" /> 
 </p>
 
-![](https://komarev.com/ghpvc/?username=littinrajan&color=blue&style=plastic&label=Profile+Views) ![visitors](https://visitor-badge.glitch.me/badge?page_id=littinrajan.visitor-badge&left_color=blue&right_color=red) ![Issues](https://img.shields.io/github/issues/littinrajan/littinrajan) ![Stars](https://img.shields.io/github/stars/littinrajan/littinrajan) ![License](https://img.shields.io/github/license/littinrajan/littinrajan) ![Author](https://img.shields.io/badge/author-littinrajan-blue)
+![Author](https://img.shields.io/badge/author-littinrajan-blue)
+![](https://komarev.com/ghpvc/?username=littinrajan&color=blue&style=plastic&label=Profile+Views) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=littinrajan.visitor-badge&left_color=blue&right_color=red) 
+![Issues](https://img.shields.io/github/issues/littinrajan/littinrajan) 
+![Stars](https://img.shields.io/github/stars/littinrajan/littinrajan) 
+![License](https://img.shields.io/github/license/littinrajan/littinrajan) 
+![Author](https://img.shields.io/badge/author-littinrajan-blue)
+(https://img.shields.io/badge/Made%20with-Markdown-green)
 
 # &#x1f4c8; My Stack Overflow Stats
 <a href="https://stackoverflow.com/users/12266677/littin-rajan"><img src="https://stackoverflow.com/users/flair/12266677.png?theme=dark" width="208" height="58" alt="profile for Littin Rajan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Littin Rajan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
