@@ -55,7 +55,6 @@ and **Instructor** at Udemy.
 ![Issues](https://img.shields.io/github/issues/littinrajan/littinrajan) 
 ![Stars](https://img.shields.io/github/stars/littinrajan/littinrajan) 
 ![License](https://img.shields.io/github/license/littinrajan/littinrajan) 
-![Author](https://img.shields.io/badge/author-littinrajan-blue)
 ![markdown](https://img.shields.io/badge/Made%20with-Markdown-green)
 
 # &#x1f4c8; My Stack Overflow Stats
