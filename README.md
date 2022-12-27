@@ -55,7 +55,7 @@ and **Instructor** at Udemy.
 </a>
 <!--- Github Profile Details Card --->
 <a href="https://github.com/littinrajan/littinrajan">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=littinrajan&theme=github_dark&title_color=ffffff"/>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=littinrajan&theme=github_dark"/>
 </a>
 <!--- Github Streak Stats Card --->
 <a href="https://github.com/littinrajan/littinrajan">
@@ -66,7 +66,6 @@ and **Instructor** at Udemy.
 [![Stargazers over time](https://starchart.cc/littinrajan/littinrajan.svg)](https://starchart.cc/littinrajan/littinrajan)
 --->
 
----
 
 # Best Repos
 <!--- Top Repos --->
@@ -74,18 +73,15 @@ and **Instructor** at Udemy.
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=littinrajan&repo=detokenize&theme=dracula" /> 
 </a>
 
----
 
 <!--- Stack Overflow & Stack Exchange Stats --->
 # &#x1f4c8; My Stack Overflow & Stack Exchange Stats
 <a align="center" href="https://stackoverflow.com/users/12266677/littin-rajan"><img src="https://stackoverflow.com/users/flair/12266677.png?theme=dark" width="208" height="58" alt="profile for Littin Rajan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Littin Rajan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <a href="https://stackexchange.com/users/16959142"><img src="https://stackexchange.com/users/flair/16959142.png?theme=dark" width="208" height="58" alt="profile for Littin Rajan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Littin Rajan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
----
 
 <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more</b>
 
----
 
 <!--- Github Badges --->
 ![Author](https://img.shields.io/badge/author-littinrajan-blue)
