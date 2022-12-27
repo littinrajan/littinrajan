@@ -49,15 +49,15 @@ and **Instructor** at Udemy.
 </a>
 
 ![](https://github-readme-stats.vercel.app/api?username=littinrajan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+
 <!--- Github Profile Deatils Card --->
 ![Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=littinrajan&theme=github_dark)
+
 <!--- Github Profile Deatils Card --->
 <a href="https://github.com/littinrajan/littinrajan">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=littinrajan&theme=github_dark">
 <a>
-<a href="https://github.com/littinrajan/littinrajan">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=littinrajan&theme=github_dark">
-<a>
+
 <!--- Github PStreak Stats Card --->
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=littinrajan&theme=ads-juicy-fresh&hide_border=true" alt="my commit status" width="49%" /> 
