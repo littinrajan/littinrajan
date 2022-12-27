@@ -47,6 +47,10 @@ and **Instructor** at Udemy.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=littinrajan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Littin Rajan's GitHub Stats" />
 </a>
 
+<a href="https://github.com/littinrajan/littinrajan">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=littinrajan&theme=vue">
+</a>
+
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=littinrajan&theme=ads-juicy-fresh&hide_border=true" alt="my commit status" width="49%" /> 
 </p>
