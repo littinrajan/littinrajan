@@ -8,9 +8,10 @@
 <a href="https://www.hackerrank.com/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/hackerrank.svg"></a>&nbsp;
 <a href="https://leetcode.com/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/leetcode.svg"></a>&nbsp;
 <a href="https://dev.to/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/dev.svg"></a>&nbsp;
+<a href="https://www.facebook.com/littin.rajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/facebook.svg"></a>&nbsp;
 <a href="https://twitter.com/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/twitter.svg?raw=true"></a>&nbsp;
 <a href="https://instagram.com/littinrajan_12"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/instagram.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/littin.rajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/facebook.svg"></a>&nbsp;
+<a href="https://www.tumblr.com/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/tumblr.svg"></a>&nbsp;
 <a href="https://www.buymeacoffee.com/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/buymecoffee.svg?raw=true"></a>
 </p>
 <a href="https://www.teacheron.com/tutor-profile/4oLA?r=4oLA" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/proudToBeTeacher.png" style="width: 160px !important; height: 68px !important"></a>
@@ -26,42 +27,37 @@ Working as an **AI Software Developer** at Techversant Infotech
 and **Instructor** at Udemy.
 
 # Where I'm "active" 🙂
-* [Stack Overflow](https://stackoverflow.com/users/12266677/littin-rajan)
-* [Exercism](https://exercism.io/profiles/littinrajan)
-* [Hacker Rank](https://www.hackerrank.com/littinrajan)
-* [Leetcode](https://leetcode.com/littinrajan)
+- [Stack Overflow](https://stackoverflow.com/users/12266677/littin-rajan)
+- [Exercism](https://exercism.io/profiles/littinrajan)
+- [Hacker Rank](https://www.hackerrank.com/littinrajan)
+- [Leetcode](https://leetcode.com/littinrajan)
 
 # 📬 Get in touch 😉
-* [LinkedIn](https://www.linkedin.com/in/littinrajan)
-* [Web](https://littinrajan.wordpress.com)
-* [Blog](https://www.dev.to/littinrajan)
-* [Twitter](https://www.twitter.com/littinrajan)
-* [Facebook](https://www.facebook.com/littin.rajan)
-* [Instagram](https://www.instagram.com/littinrajan_12)
-* [Tumblr](https://littinrajan.tumblr.com)
+- [LinkedIn](https://www.linkedin.com/in/littinrajan)
+- [Web](https://littinrajan.wordpress.com)
+- [Blog](https://www.dev.to/littinrajan)
+- [Twitter](https://www.twitter.com/littinrajan)
+- [Facebook](https://www.facebook.com/littin.rajan)
+- [Instagram](https://www.instagram.com/littinrajan_12)
+- [Tumblr](https://littinrajan.tumblr.com)
 
 - 💼 If you have any freelance work? Do reach through [littinrajan@gmail.com](mailto:littinrajan@gmail.com)
 - 💬 ask me about Python, Julia, NLP, etc. I am ready to help you.
 
 
-# &#x1f4c8; My GitHub Stats 
-<!--- Github stats Card --->
-<a href="https://github.com/littinrajan/littinrajan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littinrajan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+# &#x1f4c8; My GitHub Stats
 <!--- Github stats Card --->
 <a href="https://github.com/littinrajan/littinrajan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=littinrajan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Littin Rajan's GitHub Stats" />
 </a>
-
-<!--- Github Profile Deatils Card --->
-![Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=littinrajan&theme=github_dark)
-
-<!--- Github Profile Deatils Card --->
+<!--- GitHub Most Used Languages --->
+<a href="https://github.com/littinrajan/littinrajan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littinrajan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<!--- Github Profile Details Card --->
 <a href="https://github.com/littinrajan/littinrajan">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=littinrajan&theme=github_dark">
 <a>
-
 <!--- Github PStreak Stats Card --->
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=littinrajan&theme=ads-juicy-fresh&hide_border=true" alt="my commit status" width="49%" /> 
