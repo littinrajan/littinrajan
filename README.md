@@ -2,11 +2,11 @@
 <p align='center'><b>AI SDE | Certified Coding Teacher | Mentor | Instructor | Designer | HackerRank * 1</b></p>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icon/linkedin.png?raw=true"></a>
-<a href="https://dev.to/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/littinrajan_12"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icon/by-me-a-coffee.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/linkedin.svg?raw=true"></a>
+<a href="https://dev.to/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/dev.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/twitter.svg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/littinrajan_12"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/instagram.svg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/buymecoffee.svg?raw=true"></a>
 </p>
 <a href="https://www.teacheron.com/tutor-profile/4oLA?r=4oLA" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/proudToBeTeacher.png" style="width: 160px !important; height: 68px !important"></a>
 
