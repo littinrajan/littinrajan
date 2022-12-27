@@ -52,7 +52,7 @@ and **Instructor** at Udemy.
 <!--- Github Profile Deatils Card --->
 ![Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=littinrajan&theme=github_dark)
 <!--- Github Profile Deatils Card --->
-![Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=littinrajan&theme=github_dark)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=littinrajan&theme=github_dark">
 
 <!--- Github PStreak Stats Card --->
 <p align="left">
