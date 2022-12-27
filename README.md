@@ -57,7 +57,7 @@ and **Instructor** at Udemy.
 ![License](https://img.shields.io/github/license/littinrajan/littinrajan) 
 ![markdown](https://img.shields.io/badge/Made%20with-Markdown-green)
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://www.linkedin.com/in/littinrajan/)<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'>
 
 # &#x1f4c8; My Stack Overflow Stats
 <a href="https://stackoverflow.com/users/12266677/littin-rajan"><img src="https://stackoverflow.com/users/flair/12266677.png?theme=dark" width="208" height="58" alt="profile for Littin Rajan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Littin Rajan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
