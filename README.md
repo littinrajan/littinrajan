@@ -12,7 +12,7 @@
 <a href="https://twitter.com/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/twitter.svg?raw=true"></a>&nbsp;
 <a href="https://instagram.com/littinrajan_12"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/instagram.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.tumblr.com/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/tumblr.svg"></a>&nbsp;
-<a href="https://www.buymeacoffee.com/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/buymecoffee.svg?raw=true&theme=dark"></a>
+<a href="https://www.buymeacoffee.com/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/buymecoffee.svg?raw=true"></a>
 </p>
 <a href="https://www.teacheron.com/tutor-profile/4oLA?r=4oLA" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/proudToBeTeacher.png" style="width: 160px !important; height: 68px !important"></a>
 
@@ -52,7 +52,7 @@ and **Instructor** at Udemy.
 </a>
 <!--- GitHub Most Used Languages --->
 <a href="https://github.com/littinrajan/littinrajan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littinrajan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littinrajan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
 </a>
 <!--- Github Profile Details Card --->
 <a href="https://github.com/littinrajan/littinrajan">
@@ -63,14 +63,7 @@ and **Instructor** at Udemy.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=littinrajan&theme=ads-juicy-fresh&hide_border=true" alt="my commit status" width="49%" /> 
 </p>
 
-<!--- Github Barges --->
-![Author](https://img.shields.io/badge/author-littinrajan-blue)
-![](https://komarev.com/ghpvc/?username=littinrajan&color=blue&style=plastic&label=Profile+Views) 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=littinrajan.visitor-badge&left_color=blue&right_color=red) 
-![Issues](https://img.shields.io/github/issues/littinrajan/littinrajan) 
-![Stars](https://img.shields.io/github/stars/littinrajan/littinrajan) 
-![License](https://img.shields.io/github/license/littinrajan/littinrajan) 
-![markdown](https://img.shields.io/badge/Made%20with-Markdown-green)
+---
 
 <!--- Stack Overflow Stats --->
 # &#x1f4c8; My Stack Overflow Stats
@@ -86,3 +79,14 @@ and **Instructor** at Udemy.
 [![Stargazers over time](https://starchart.cc/littinrajan/littinrajan.svg)](https://starchart.cc/littinrajan/littinrajan) -->
 
 <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more</b>
+
+---
+
+<!--- Github Badges --->
+![Author](https://img.shields.io/badge/author-littinrajan-blue)
+![](https://komarev.com/ghpvc/?username=littinrajan&color=blue&style=plastic&label=Profile+Views) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=littinrajan.visitor-badge&left_color=blue&right_color=red) 
+![Issues](https://img.shields.io/github/issues/littinrajan/littinrajan) 
+![Stars](https://img.shields.io/github/stars/littinrajan/littinrajan) 
+![License](https://img.shields.io/github/license/littinrajan/littinrajan) 
+![markdown](https://img.shields.io/badge/Made%20with-Markdown-green)
