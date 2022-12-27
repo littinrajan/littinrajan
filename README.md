@@ -48,26 +48,27 @@ and **Instructor** at Udemy.
 # &#x1f4c8; My GitHub Stats
 <!--- Github stats Card --->
 <a href="https://github.com/littinrajan/littinrajan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=littinrajan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Littin Rajan's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=littinrajan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Littin Rajan's GitHub Stats" />
 </a>
 <!--- GitHub Most Used Languages --->
 <a href="https://github.com/littinrajan/littinrajan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littinrajan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littinrajan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <!--- Github Profile Details Card --->
 <a href="https://github.com/littinrajan/littinrajan">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=littinrajan&theme=github_dark">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=littinrajan&theme=github_dark">
 </a>
 <!--- Github Streak Stats Card --->
 <a href="https://github.com/littinrajan/littinrajan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=littinrajan&theme=ads-juicy-fresh" alt="my commit status" width="49%" /> 
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=littinrajan&theme=ads-juicy-fresh" alt="my commit status" width="49%" /> 
 </a>
 
 ---
 
 <!--- Stack Overflow Stats --->
-# &#x1f4c8; My Stack Overflow Stats
-<a href="https://stackoverflow.com/users/12266677/littin-rajan"><img src="https://stackoverflow.com/users/flair/12266677.png?theme=dark" width="208" height="58" alt="profile for Littin Rajan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Littin Rajan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+# &#x1f4c8; My Stack Overflow & Stack Exchange Stats
+<a align="center" href="https://stackoverflow.com/users/12266677/littin-rajan"><img src="https://stackoverflow.com/users/flair/12266677.png?theme=dark" width="208" height="58" alt="profile for Littin Rajan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Littin Rajan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackexchange.com/users/16959142"><img src="https://stackexchange.com/users/flair/16959142.png?theme=dark" width="208" height="58" alt="profile for Littin Rajan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Littin Rajan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 <!--- Stack Exchange Stats --->
 # &#x1f4c8; My Stack Exchange Stats
