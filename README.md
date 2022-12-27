@@ -52,16 +52,16 @@ and **Instructor** at Udemy.
 </a>
 <!--- GitHub Most Used Languages --->
 <a href="https://github.com/littinrajan/littinrajan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littinrajan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littinrajan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <!--- Github Profile Details Card --->
 <a href="https://github.com/littinrajan/littinrajan">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=littinrajan&theme=github_dark">
-<a>
-<!--- Github PStreak Stats Card --->
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=littinrajan&theme=ads-juicy-fresh&hide_border=true" alt="my commit status" width="49%" /> 
-</p>
+</a>
+<!--- Github Streak Stats Card --->
+<a href="https://github.com/littinrajan/littinrajan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=littinrajan&theme=ads-juicy-fresh" alt="my commit status" width="49%" /> 
+</a>
 
 ---
 
