@@ -51,7 +51,7 @@ and **Instructor** at Udemy.
 </a>
 <!--- GitHub Most Used Languages --->
 <a href="https://github.com/littinrajan/littinrajan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littinrajan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littinrajan&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <!--- Github Profile Details Card --->
 <a href="https://github.com/littinrajan/littinrajan">
