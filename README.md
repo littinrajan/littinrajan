@@ -51,7 +51,7 @@ and **Instructor** at Udemy.
 </a>
 <!--- GitHub Most Used Languages --->
 <a href="https://github.com/littinrajan/littinrajan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littinrajan&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littinrajan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <!--- Github Profile Details Card --->
 <a href="https://github.com/littinrajan/littinrajan">
@@ -63,7 +63,7 @@ and **Instructor** at Udemy.
 </a>
 <!--- Github Trophies--->
 <a href="https://github.com/littinrajan/littinrajan">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=littinrajan&theme=dracula"/> 
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=littinrajan&theme=nord"/> 
 </a>
 <!---
 ## Stargazers over time
@@ -74,22 +74,22 @@ and **Instructor** at Udemy.
 # Best Repos
 <!--- Top Repos --->
 <a href="https://github.com/littinrajan/detokenize">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=littinrajan&repo=detokenize&theme=dracula" /> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=littinrajan&repo=detokenize&theme=dark" /> 
 </a>
 
 
 <!--- Stack Overflow & Stack Exchange Stats --->
 # &#x1f4c8; My Stack Overflow & Stack Exchange Stats
-<a align="center" href="https://stackoverflow.com/users/12266677/littin-rajan"><img src="https://stackoverflow.com/users/flair/12266677.png?theme=dark" width="208" height="58" alt="profile for Littin Rajan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Littin Rajan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a align="center" href="https://stackoverflow.com/users/12266677/littin-rajan"><img src="https://stackoverflow.com/users/flair/12266677.png?theme=dark" width="208" height="58" alt="profile for Littin Rajan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Littin Rajan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>&nbsp;&nbsp;
 <a href="https://stackexchange.com/users/16959142"><img src="https://stackexchange.com/users/flair/16959142.png?theme=dark" width="208" height="58" alt="profile for Littin Rajan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Littin Rajan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 
-<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more</b>
+<i>I love connecting with different people</b> so if you want to say hi, I'll be happy to meet you more..</i>
 
 
 <!--- Github Badges --->
 ![Author](https://img.shields.io/badge/author-littinrajan-blue)
-![](https://komarev.com/ghpvc/?username=littinrajan&color=blue&style=plastic&label=Profile+Views) 
+![](https://komarev.com/ghpvc/?username=littinrajan&color=blue&label=Profile+Views) 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=littinrajan.visitor-badge&left_color=blue&right_color=red) 
 ![Issues](https://img.shields.io/github/issues/littinrajan/littinrajan) 
 ![Stars](https://img.shields.io/github/stars/littinrajan/littinrajan) 
