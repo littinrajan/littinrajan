@@ -47,11 +47,11 @@ and **Instructor** at Udemy.
 # &#x1f4c8; My GitHub Stats
 <!--- Github stats Card --->
 <a href="https://github.com/littinrajan/littinrajan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=littinrajan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width=="50%" alt="Littin Rajan's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=littinrajan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Littin Rajan's GitHub Stats" />
 </a>
 <!--- GitHub Most Used Languages --->
 <a href="https://github.com/littinrajan/littinrajan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littinrajan&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="40%" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littinrajan&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <!--- Github Profile Details Card --->
 <a href="https://github.com/littinrajan/littinrajan">
