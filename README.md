@@ -55,7 +55,9 @@ and **Instructor** at Udemy.
 <a href="https://github.com/littinrajan/littinrajan">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=littinrajan&theme=github_dark">
 <a>
-
+<a href="https://github.com/littinrajan/littinrajan">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=littinrajan&theme=github_dark">
+<a>
 <!--- Github PStreak Stats Card --->
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=littinrajan&theme=ads-juicy-fresh&hide_border=true" alt="my commit status" width="49%" /> 
