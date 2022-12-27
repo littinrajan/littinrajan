@@ -41,7 +41,7 @@ and **Instructor** at Udemy.
 
 # &#x1f4c8; My GitHub Stats 
 <!--- Github stats Card --->
-[![Littin's GitHub stats](https://github-readme-stats.vercel.app/api?username=littinrajan)](https://github.com/littinrajan/github-readme-stats)
+[![Littin's GitHub stats](https://github-readme-stats.vercel.app/api?username=littinrajan&count_private=true)](https://github.com/littinrajan/github-readme-stats)
 <a href="https://github.com/littinrajan/littinrajan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littinrajan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
