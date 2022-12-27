@@ -23,7 +23,7 @@ and **Instructor** at Udemy.
 # Where I'm "active" 🙂
 * [Stack Overflow](https://stackoverflow.com/users/12266677/littin-rajan)
 * [Exercism](https://exercism.io/profiles/littinrajan)
-* [Hacker Rank]([https://stackoverflow.com/users/12266677/littin-rajan](https://www.hackerrank.com/littinrajan))
+* [Hacker Rank](https://www.hackerrank.com/littinrajan)
 * [Leetcode](https://leetcode.com/littinrajan)
 
 # 📬 Get in touch 😉
