@@ -38,6 +38,7 @@ and **Instructor** at Udemy.
 - 💼 If you have any freelance work? Do reach through [littinrajan@gmail.com](mailto:littinrajan@gmail.com)
 - 💬 ask me about Python, Julia, NLP, etc. I am ready to help you.
 
+<!--- Github stats Card --->
 # &#x1f4c8; My GitHub Stats 
 <a href="https://github.com/littinrajan/littinrajan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littinrajan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -47,18 +48,17 @@ and **Instructor** at Udemy.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=littinrajan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Littin Rajan's GitHub Stats" />
 </a>
 
+<!--- Github Profile Deatils Card --->
 <a href="https://github.com/littinrajan/littinrajan">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=littinrajan&theme=vue">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=littinrajan&theme=github_dark">
 </a>
 
-<a href="https://github.com/littinrajan/littinrajan">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=littinrajan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
-</a>
-
+<!--- Github PStreak Stats Card --->
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=littinrajan&theme=ads-juicy-fresh&hide_border=true" alt="my commit status" width="49%" /> 
 </p>
 
+<!--- Github Barges --->
 ![Author](https://img.shields.io/badge/author-littinrajan-blue)
 ![](https://komarev.com/ghpvc/?username=littinrajan&color=blue&style=plastic&label=Profile+Views) 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=littinrajan.visitor-badge&left_color=blue&right_color=red) 
@@ -67,9 +67,11 @@ and **Instructor** at Udemy.
 ![License](https://img.shields.io/github/license/littinrajan/littinrajan) 
 ![markdown](https://img.shields.io/badge/Made%20with-Markdown-green)
 
+<!--- Stack Overflow Stats --->
 # &#x1f4c8; My Stack Overflow Stats
 <a href="https://stackoverflow.com/users/12266677/littin-rajan"><img src="https://stackoverflow.com/users/flair/12266677.png?theme=dark" width="208" height="58" alt="profile for Littin Rajan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Littin Rajan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
+<!--- Stack Exchange Stats --->
 # &#x1f4c8; My Stack Exchange Stats
 <a href="https://stackexchange.com/users/16959142"><img src="https://stackexchange.com/users/flair/16959142.png?theme=dark" width="208" height="58" alt="profile for Littin Rajan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Littin Rajan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
