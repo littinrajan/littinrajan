@@ -3,11 +3,14 @@
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/linkedin.svg?raw=true"></a>&nbsp;
-<a href="https://dev.to/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/dev.svg"></a>&nbsp;
+<a href="https://github.com/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/github.svg"></a>&nbsp;
+<a href="https://stackoverflow.com/users/12266677/littin-rajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/stackoverflow.svg"></a>&nbsp;
 <a href="https://www.hackerrank.com/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/hackerrank.svg"></a>&nbsp;
 <a href="https://leetcode.com/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/leetcode.svg"></a>&nbsp;
+<a href="https://dev.to/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/dev.svg"></a>&nbsp;
 <a href="https://twitter.com/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/twitter.svg?raw=true"></a>&nbsp;
 <a href="https://instagram.com/littinrajan_12"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/instagram.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/littin.rajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/facebook.svg"></a>&nbsp;
 <a href="https://www.buymeacoffee.com/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/buymecoffee.svg?raw=true"></a>
 </p>
 <a href="https://www.teacheron.com/tutor-profile/4oLA?r=4oLA" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/proudToBeTeacher.png" style="width: 160px !important; height: 68px !important"></a>
