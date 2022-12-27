@@ -68,7 +68,7 @@ and **Instructor** at Udemy.
 </a>
 <!--- Wakatime--->
 <a href="https://github.com/littinrajan/littinrajan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=littinrajan&theme=nord&custom_title=My Wakatime Stats"/> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=littinrajan&theme=nord"/> 
 </a>
 <!--- Github Trophies--->
 <a href="https://github.com/littinrajan/littinrajan">
