@@ -49,10 +49,11 @@ and **Instructor** at Udemy.
 <a href="https://github.com/littinrajan/littinrajan">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=littinrajan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Littin Rajan's GitHub Stats" />
 </a>
-<!--- Github stats Card --->
+<!--- 
 <a href="https://github.com/littinrajan/littinrajan">
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=littinrajan&theme=github_dark" alt="Littin Rajan's GitHub Stats" />
 </a>
+ --->
 <!--- GitHub Most Used Languages --->
 <a href="https://github.com/littinrajan/littinrajan">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littinrajan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -68,6 +69,10 @@ and **Instructor** at Udemy.
 <!--- Github Trophies--->
 <a href="https://github.com/littinrajan/littinrajan">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=littinrajan&theme=nord"/> 
+</a>
+<!--- Wakatime--->
+<a href="https://github.com/littinrajan/littinrajan">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=littinrajan&theme=nord"/> 
 </a>
 <!---
 ## Stargazers over time
