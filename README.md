@@ -61,6 +61,10 @@ and **Instructor** at Udemy.
 <a href="https://github.com/littinrajan/littinrajan">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=littinrajan&theme=ads-juicy-fresh" alt="my commit status" width="49%" /> 
 </a>
+<!--- Github Trophies--->
+<a href="https://github.com/littinrajan/littinrajan">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=littinrajan&theme=dracula" /> 
+</a>
 <!---
 ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/littinrajan/littinrajan.svg)](https://starchart.cc/littinrajan/littinrajan)
