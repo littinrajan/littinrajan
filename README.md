@@ -1,5 +1,5 @@
 <h1 align='center'> Littin Rajan </h1>
-<p align='center'><b>AI SDE | Certified Coding Teacher | Mentor | Instructor | Designer | HackerRank * 1</b></p>
+<p align='center'><b>AI SSE | Certified Coding Teacher | Mentor | Instructor | Designer | HackerRank * 1</b></p>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/littinrajan"><img height="30" src="https://github.com/littinrajan/littinrajan/blob/master/icons/linkedin.svg?raw=true"></a>&nbsp;
@@ -19,9 +19,9 @@
 
 # Hi there 👋
 
-I am an AI Software Developer from India. Interested in, write about and develop (open source) software solutions for and with Python, Julia, etc and focusing on Artificial Intelligence.
+I am an ai Software Engineer from India. Interested in, write about and develop (open source) software solutions for and with Python, Julia, etc and focusing on Artificial Intelligence.
 
-Working as an **AI Software Developer** at Techversant Infotech
+Working as an **Senior Software Engineer** at Epixel Solutions
 , **Senior Coding Instructor** at Codingal, **Mentor** at Exercism for the programming Languages Python, Julia and C
 , **Mentor** at CodingCoach
 and **Instructor** at Udemy.
@@ -99,7 +99,7 @@ and **Instructor** at Udemy.
 <!--- Github Badges --->
 ![Author](https://img.shields.io/badge/author-littinrajan-blue)
 ![](https://komarev.com/ghpvc/?username=littinrajan&color=blue&label=Profile+Views) 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=littinrajan.visitor-badge&left_color=blue&right_color=red) 
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=littinrajan.visitor-badge&left_color=blue&right_color=red) -->
 ![Issues](https://img.shields.io/github/issues/littinrajan/littinrajan) 
 ![Stars](https://img.shields.io/github/stars/littinrajan/littinrajan) 
 ![License](https://img.shields.io/github/license/littinrajan/littinrajan) 
