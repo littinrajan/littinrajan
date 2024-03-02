@@ -25,7 +25,7 @@ Working as an **Senior Software Engineer** at Epixel Solutions
 , **Mentor** at CodingCoach
 and **Instructor** at Udemy.
 
-# Where I'm "active" 🙂
+# Where I'm "active" 😊
 - [Stack Overflow](https://stackoverflow.com/users/12266677/littin-rajan)
 - [Exercism](https://exercism.io/profiles/littinrajan)
 - [Hacker Rank](https://www.hackerrank.com/littinrajan)
