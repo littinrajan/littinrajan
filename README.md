@@ -18,7 +18,7 @@
 
 # Hi there 👋
 
-I am an AI Software Engineer from India. Interested in, write about and develop (open source) software solutions for and with Python, Julia, etc and focusing on Artificial Intelligence.
+I am an **AI Software Engineer** from India. Interested in, write about and develop (open source) software solutions for and with Python, Julia, etc and focusing on Artificial Intelligence.
 
 Working as an **Senior Software Engineer** at Epixel Solutions
 , **Senior Coding Instructor** at Codingal, **Mentor** at Exercism for the programming Languages Python, Julia and C
