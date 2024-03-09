@@ -41,7 +41,7 @@ and **Instructor** at Udemy.
 - [Tumblr](https://littinrajan.tumblr.com)
 - 💼 If you have any freelance work? Do reach through [littinrajan@gmail.com](mailto:littinrajan@gmail.com)
 - 💬 Ask me about Python, Julia, AI, ML, NLP, etc. I am ready to help you.
-- If you like what i do, maybe consider buying me a coffee/tea <a href="https://www.buymeacoffee.com/littinrajan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="25" ></a>
+- If you like what i do, maybe consider buying me a coffee <a href="https://www.buymeacoffee.com/littinrajan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="25" ></a>
 
 
 # &#x1f4c8; My GitHub Stats
