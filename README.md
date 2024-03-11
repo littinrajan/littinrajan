@@ -18,12 +18,9 @@
 
 # Hi there 👋
 
-I am an **AI Software Engineer** from India. Interested in, write about and develop (open source) software solutions for and with Python, Julia, etc and focusing on Artificial Intelligence.
+I am an **AI Software Engineer** from India, with a passion for crafting and contributing to open-source software solutions using Python, Julia, and other related technologies, particularly in the realm of artificial intelligence.
 
-Working as an **Senior Software Engineer** at Epixel Solutions
-, **Senior Coding Instructor** at Codingal, **Mentor** at Exercism for the programming Languages Python, Julia and C
-, **Mentor** at CodingCoach
-and **Instructor** at Udemy.
+Currently, I hold the position of **Senior Software Engineer** , where I actively engage in developing innovative solutions. Additionally, I serve as a **Senior Coding Instructor** , guiding students in honing their programming skills. As a **Mentor**at Exercism, I provide support and guidance to learners mastering Python, Julia, and C languages. Furthermore, I also act as a **Mentor** , assisting aspiring developers in their career journeys. Lastly, I share my expertise as an **Instructor** on Udemy, delivering comprehensive courses to learners eager to delve into programming and AI.
 
 # Where I'm "active" 😊
 - [Stack Overflow](https://stackoverflow.com/users/12266677/littin-rajan)
