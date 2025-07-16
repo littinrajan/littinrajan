@@ -101,3 +101,4 @@ Currently, I hold the position of **Senior Software Engineer** , where I activel
 ![Stars](https://img.shields.io/github/stars/littinrajan/littinrajan) 
 ![License](https://img.shields.io/github/license/littinrajan/littinrajan) 
 ![markdown](https://img.shields.io/badge/Made%20with-Markdown-green)
+![WakaTime](https://wakatime.com/badge/user/9c16cf25-8923-4935-9dda-1bd7a6d6d4fd.svg)
