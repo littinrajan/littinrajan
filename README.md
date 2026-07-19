@@ -27,32 +27,31 @@ Building scalable backend systems, AI products, and open-source tools that solve
 
 <p align="center">
 <a href="https://www.linkedin.com/in/littinrajan">
-<img height="32" src="https://raw.githubusercontent.com/littinrajan/littinrajan/main/icons/linkedin.svg"/>
-</a>&nbsp;
+<img height="32" src="https://raw.githubusercontent.com/littinrajan/littinrajan/main/icons/linkedin.svg"/></a>&nbsp;
+
 <a href="https://github.com/littinrajan">
-<img height="32" src="https://raw.githubusercontent.com/littinrajan/littinrajan/main/icons/github.svg"/>
-</a>&nbsp;
+<img height="32" src="https://raw.githubusercontent.com/littinrajan/littinrajan/main/icons/github.svg"/></a>&nbsp;
+
 <a href="https://stackoverflow.com/users/12266677/littin-rajan">
-<img height="32" src="https://raw.githubusercontent.com/littinrajan/littinrajan/main/icons/stackoverflow.svg"/>
-</a>&nbsp;
+<img height="32" src="https://raw.githubusercontent.com/littinrajan/littinrajan/main/icons/stackoverflow.svg"/></a>&nbsp;
+
 <a href="https://www.hackerrank.com/littinrajan">
-<img height="32" src="https://raw.githubusercontent.com/littinrajan/littinrajan/main/icons/hackerrank.svg"/>
-</a>&nbsp;
+<img height="32" src="https://raw.githubusercontent.com/littinrajan/littinrajan/main/icons/hackerrank.svg"/></a>&nbsp;
+
 <a href="https://leetcode.com/littinrajan">
-<img height="32" src="https://raw.githubusercontent.com/littinrajan/littinrajan/main/icons/leetcode.svg"/>
-</a>&nbsp;
+<img height="32" src="https://raw.githubusercontent.com/littinrajan/littinrajan/main/icons/leetcode.svg"/></a>&nbsp;
+
 <a href="https://exercism.org/profiles/littinrajan">
-<img height="32" src="https://cdn.simpleicons.org/exercism"/>
-</a>&nbsp;
+<img height="32" src="https://cdn.simpleicons.org/exercism"/></a>&nbsp;
+
 <a href="https://dev.to/littinrajan">
-<img height="32" src="https://raw.githubusercontent.com/littinrajan/littinrajan/main/icons/dev.svg"/>
-</a>&nbsp;
+<img height="32" src="https://raw.githubusercontent.com/littinrajan/littinrajan/main/icons/dev.svg"/></a>&nbsp;
+
 <a href="https://www.instagram.com/littinrajan_12">
-<img height="32" src="https://raw.githubusercontent.com/littinrajan/littinrajan/main/icons/instagram.svg"/>
-</a>&nbsp;
+<img height="32" src="https://raw.githubusercontent.com/littinrajan/littinrajan/main/icons/instagram.svg"/></a>&nbsp;
+
 <a href="https://www.buymeacoffee.com/littinrajan">
-<img height="32" src="https://raw.githubusercontent.com/littinrajan/littinrajan/main/icons/buymecoffee.svg"/>
-</a>
+<img height="32" src="https://raw.githubusercontent.com/littinrajan/littinrajan/main/icons/buymecoffee.svg"/></a>
 </p>
 
 ---
