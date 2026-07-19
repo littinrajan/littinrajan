@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Littin Rajan</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=50&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=0E75B6&lines=Lead+Senior+Backend+Engineer;AI+Engineer;Python+Expert;FastAPI+%7C+Azure+%7C+OpenAI;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=0E75B6&lines=Lead+Senior+Backend+Engineer;AI+Engineer;Python+Expert;FastAPI+%7C+Azure+%7C+OpenAI;Open+Source+Contributor"/>
 </p>
 
 <p align="center">
