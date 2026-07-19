@@ -145,15 +145,15 @@ Building scalable backend systems, AI products, and open-source tools that solve
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=littinrajan&theme=github-dark&hide_border=true"/>
+<img width="900" src="https://github-readme-streak-stats.herokuapp.com/?user=littinrajan&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=littinrajan&theme=github_dark"/>
+<img width="900" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=littinrajan&theme=github_dark"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=littinrajan&theme=github-compact"/>
+<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=littinrajan&theme=github-compact"/>
 </p>
 
 ## 🔔 My GitHub Metrics
