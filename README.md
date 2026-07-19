@@ -10,23 +10,19 @@ Building scalable backend systems, AI products, and open-source tools that solve
 
 <p align="center">
 <a href="https://github.com/littinrajan">
-<img src="https://komarev.com/ghpvc/?username=littinrajan&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=littinrajan&label=Profile%20Views&color=0e75b6&style=flat"/></a>
 
 <a href="https://github.com/littinrajan?tab=followers">
-<img src="https://img.shields.io/github/followers/littinrajan?label=Followers&style=flat" />
-</a>
+<img src="https://img.shields.io/github/followers/littinrajan?label=Followers&style=flat"/></a>
 
 <a href="https://github.com/littinrajan">
-<img src="https://img.shields.io/github/stars/littinrajan?affiliations=OWNER&style=flat" />
-</a>
+<img src="https://img.shields.io/github/stars/littinrajan?affiliations=OWNER&style=flat"/></a>
 
 <a href="https://stackoverflow.com/users/12266677">
-<img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/12266677?color=blue&label=reputation&logo=stackoverflow"></a>
+<img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/12266677?color=blue&label=reputation&logo=stackoverflow"/></a>
 
 <a href="https://wakatime.com/@9c16cf25-8923-4935-9dda-1bd7a6d6d4fd">
-<img src="https://wakatime.com/badge/user/9c16cf25-8923-4935-9dda-1bd7a6d6d4fd.svg"/>
-</a>
+<img src="https://wakatime.com/badge/user/9c16cf25-8923-4935-9dda-1bd7a6d6d4fd.svg"/></a>
 </p>
 
 <p align="center">
