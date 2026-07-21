@@ -158,21 +158,37 @@ Building scalable backend systems, AI products, and open-source tools that solve
 
 ---
 
-## 🐍 Contribution Snake
+## 🌊 GitHub Contribution Activity
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/littinrajan/littinrajan/output/github-contribution-grid-snake-dark.svg">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/littinrajan/littinrajan/output/github-contribution-grid-snake.svg">
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/littinrajan/littinrajan/output/github-contribution-grid-snake.svg">
-  </picture>
+    <picture>
+        <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/littinrajan/littinrajan/output/koipond-dark.svg">
+        <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/littinrajan/littinrajan/output/koipond-light.svg">
+        <img
+            style="width:900px;max-width:100%;"
+            alt="GitHub contribution KoiPond"
+            src="https://raw.githubusercontent.com/littinrajan/littinrajan/output/koipond-light.svg">
+    </picture>
 </p>
+
+<!-- <p align="center">
+    <picture>
+        <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/littinrajan/littinrajan/output/github-contribution-grid-snake-dark.svg">
+        <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/littinrajan/littinrajan/output/github-contribution-grid-snake.svg">
+        <img
+            style="width:900px;max-width:100%;"
+            alt="GitHub contribution snake"
+            src="https://raw.githubusercontent.com/littinrajan/littinrajan/output/github-contribution-grid-snake.svg">
+    </picture>
+</p> -->
 
 ---
 
