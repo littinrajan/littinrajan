@@ -1,15 +1,9 @@
-name: Generate Snake Animation
+name: GitHub Activity
 
 on:
   schedule:
-    # Runs every day at 00:00 UTC
     - cron: "0 0 * * *"
-
   workflow_dispatch:
-
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
@@ -19,10 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Generate Snake Animation
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -30,7 +21,15 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake Animation to Output Branch
+      - name: Generate Koipond
+        uses: 0xydev/koipond@v1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/koipond-light.svg
+            dist/koipond-dark.svg?theme=dark
+
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
