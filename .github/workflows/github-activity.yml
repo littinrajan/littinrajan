@@ -13,30 +13,32 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Prepare output directory
+      - name: Prepare directories
         run: |
+          mkdir -p dist-snake
+          mkdir -p dist-koipond
           mkdir -p dist
-          chmod -R 755 dist
 
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Fix dist permissions
-        run: |
-          chmod -R u+rwX dist
+            dist-snake/github-contribution-grid-snake.svg
+            dist-snake/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Generate Koipond
         uses: 0xydev/koipond@v1
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/koipond-light.svg
-            dist/koipond-dark.svg?theme=dark
+            dist-koipond/koipond-light.svg
+            dist-koipond/koipond-dark.svg?theme=dark
+
+      - name: Merge outputs
+        run: |
+          cp dist-snake/* dist/
+          cp dist-koipond/* dist/
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
